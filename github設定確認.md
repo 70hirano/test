@@ -1,22 +1,22 @@
 ## ブランチ設定
-*1. Require a pull request before merging*
+**1. Require a pull request before merging**
   * PR経由のみマージを許可する
   * ONにすることでmainやstgなどの重要ブランチを直接いじらせず、安全なPR経由だけに限定することができる
 
-*2. Require approvals*
+**2. Require approvals**
   * PRにレビューが必要かどうかを設定する
   * ON：レビュー必須、承認者の人数を設定可能
   * ー：レビュー必要なし　　　
 
-*3. Dismiss stale pull request approvals when new commits are pushed*
+**3. Dismiss stale pull request approvals when new commits are pushed**
   * PRに対して承認済だがマージ前の状態で、同じソースに対して修正を加えて、追加pushした際の「承認」をどう扱うかを制御する
   * ON：前の承認が無効となる　→　UI上もApproveが消え、再承認が必要になる。再承認後にマージが可能となる
   * ー：前の承認が残る
 
-*4. Require review from Code Owners*
+**4. Require review from Code Owners**
   * CODEOWNERS ファイルに指定された人の承認が必須となる
 
-*5. Require approval of the most recent reviewable push*
+**5. Require approval of the most recent reviewable push**
   * PRに対して承認済だがマージ前の状態で、同じソースに対して修正を加えて、追加pushした際の「マージ」の動きを制御する
   * ON：最新のpushが承認されるまで、マージ不可
   * ー：マージは可能
@@ -46,8 +46,10 @@
 * 3-1 開発者：ファイルを修正し、開発リーダーにPRを投げる
 * 3-2 リーダー：承認し、マージ可能な状態となる（マージは未だ行わない）
 * 3-3 開発者：ファイルを追加修正しpushする
+* 3-4 リーダー：追加pushにより承認が無効化された通知が届く、ただしマージは可能な状態となる　**※ 矛盾した状態となる**
 
 ### ケース4　ブランチ設定　3：ー　5：ON　の場合
 * 4-1 開発者：ファイルを修正し、開発リーダーにPRを投げる
 * 4-2 リーダー：承認し、マージ可能な状態となる（マージは未だ行わない）
 * 4-3 開発者：ファイルを追加修正しpushする
+* 4-4 リーダー：追加pushがあっても承認状態は変わらない、ただしマージは不可の状態となる　**※ 矛盾した状態となる**
