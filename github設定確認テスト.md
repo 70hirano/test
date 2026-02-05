@@ -45,7 +45,6 @@
 * 1-4 リーダー：追加pushにより承認が消える（無効化される）。マージ不可の状態となる
 * 1-5 リーダー：再承認を行い、マージ可能な状態となる
 * 1-6 リーダー：マージする
-
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/7bea8c4a-a32a-4d0b-8136-0ff2ece549c9" /><br />
 
 ### ケース2　ブランチ設定　3：ー　5：ー　の場合
