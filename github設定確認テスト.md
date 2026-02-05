@@ -39,6 +39,7 @@
  5. Require approval of the most recent reviewable push　→　テストケースに合わせて変更
 
 ### ケース1　ブランチ設定　3：ON　5：ON　の場合
+<img width="846" height="798" alt="image" src="https://github.com/user-attachments/assets/7bea8c4a-a32a-4d0b-8136-0ff2ece549c9" />
 * 1-1 開発者：ファイルを修正し、開発リーダーにPRを投げる
 * 1-2 リーダー：承認し、マージ可能な状態となる（マージは未だ行わない）
 * 1-3 開発者：ファイルを追加修正しpushする
