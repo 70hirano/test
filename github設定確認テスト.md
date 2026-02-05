@@ -31,6 +31,13 @@
 * 70meth02：開発者
 
 ## テストケース
+* mainリポジトリに対して、以下設定を行い各ケースのシナリオを実行した
+  1. Require a pull request before merging　→　ON
+  2. Require approvals　→　ON＋承認者数=1
+  3. Dismiss stale pull request approvals when new commits are pushed　→　テストケースに合わせて変更
+  4. Require review from Code Owners　→　ー
+  5. Require approval of the most recent reviewable push　→　テストケースに合わせて変更
+
 ### ケース1　ブランチ設定　3：ON　5：ON　の場合
 * 1-1 開発者：ファイルを修正し、開発リーダーにPRを投げる
 * 1-2 リーダー：承認し、マージ可能な状態となる（マージは未だ行わない）
