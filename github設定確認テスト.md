@@ -1,4 +1,4 @@
-#　Githubの設定確認テスト
+# Githubの設定確認テスト
 
 ## ブランチ設定
 **1. Require a pull request before merging**
