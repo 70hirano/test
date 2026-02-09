@@ -93,4 +93,5 @@
     <br /><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/b40debc8-24bd-4cc2-9502-6228f45e90ab" /><br />
 
 
+### ケース5　ADD　ブランチ設定　3：ON　5：ON　の場合で、自分1人でPRして承認してマージできないことを確認する
 
