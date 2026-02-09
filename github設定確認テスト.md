@@ -78,7 +78,7 @@
 * **3‐2実施直後の状態　→　マージ可能な状態**
     <br /><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/3be2f436-18d6-4be0-beba-ff1aa6990cee" /><br />
 * **3-3実施直後の状態　→　承認が取り消され、マージ不可な状態**
-    <br /><img width="50％" height="50％" alt="image" src="https://github.com/user-attachments/assets/6f79c1fd-1b51-4848-82d8-0424d220f3bf" /><br />
+    <br /><img width="500％" height="500％" alt="image" src="https://github.com/user-attachments/assets/6f79c1fd-1b51-4848-82d8-0424d220f3bf" /><br />
 
 
 ### ケース4　ブランチ設定　3：ー　5：ON　の場合
