@@ -74,7 +74,7 @@
 * ~~4-4 リーダー：追加pushがあっても承認状態のまま、ただしマージは不可の状態となる~~　**※ UIと矛盾した状態となる**
     <br /><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/f9c90e05-a076-4372-9c12-54123e7d3313" /><br />
 * **開発者＆開発リーダーからみたPRの状態　→　承認は一度通ったが（Verified）、更にレビューが必要＆マージも未だ**
-　　＜br /><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/b422de74-19e3-4c44-9604-fb8c6fe547ab" /><br />
+　　<br /><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/b422de74-19e3-4c44-9604-fb8c6fe547ab" /><br />
 * **開発リーダーの場合は、直近のみ変更を確認することができる**
     <br /><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/c29dad66-801d-4db5-8b40-1049a639e223" /><br />
 
