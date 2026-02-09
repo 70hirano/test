@@ -76,7 +76,7 @@
 * **開発者＆開発リーダーからみたPRの状態　→　承認は一度通ったが（Verified）、更にレビューが必要＆マージも未だ**
 　　＜br /><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/b422de74-19e3-4c44-9604-fb8c6fe547ab" /><br />
 * **開発リーダーの場合は、直近のみ変更を確認することができる**
-    <br /><img width="1161" height="858" alt="image" src="https://github.com/user-attachments/assets/c29dad66-801d-4db5-8b40-1049a639e223" /><br />
+    <br /><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/c29dad66-801d-4db5-8b40-1049a639e223" /><br />
 
 
 
