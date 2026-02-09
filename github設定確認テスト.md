@@ -66,6 +66,7 @@
 * 3-5 リーダー：再承認を行い、マージ可能な状態となる
 * 3-6 リーダー：マージする
 * ======================================================
+<br /><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/cd157fb4-546e-492f-83ad-cd8f5dede659" /><br />
 *
 * 訂正後の流れ
 * ======================================================
@@ -81,7 +82,6 @@
 * **開発リーダーの場合は、直近のみ変更を確認することができる**
     <br /><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/319fddad-4537-4df7-a8db-87ecc288b10d" /><br />
 
-<br /><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/cd157fb4-546e-492f-83ad-cd8f5dede659" /><br />
 
 
 ### ケース4　ブランチ設定　3：ー　5：ON　の場合
