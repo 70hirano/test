@@ -85,7 +85,7 @@
 * ~~4-1 開発者：ファイルを修正し、開発リーダーにPRを投げる~~
 * ~~4-2 リーダー：承認し、マージ可能な状態となる（マージは未だ行わない）~~
 * ~~4-3 開発者：ファイルを追加修正しpushする~~
-* ~~4-4 リーダー：追加pushがあっても承認状態のまま、ただしマージは不可の状態となる~~　**※ UIと矛盾した状態となる**
+* ~~4-4 リーダー：追加pushがあっても承認状態のまま、ただしマージは不可の状態となる~~　**※ UIと矛盾した状態となる　「1 Approval」のマークあり**
     <br /><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/f9c90e05-a076-4372-9c12-54123e7d3313" /><br />
 * **4-2実施直後の状態**
 　　<br /><img width="500％" height="500％" alt="image" src="https://github.com/user-attachments/assets/5f1f1e08-6d5a-4d93-9d4c-f34b3be165d0" /><br />
