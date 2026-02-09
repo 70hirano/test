@@ -88,7 +88,7 @@
 * ~~4-4 リーダー：追加pushがあっても承認状態のまま、ただしマージは不可の状態となる~~　**※ UIと矛盾した状態となる**
     <br /><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/f9c90e05-a076-4372-9c12-54123e7d3313" /><br />
 * **4-2実施直後の状態**
-　　<br /><img width="50％" height="50％" alt="image" src="https://github.com/user-attachments/assets/5f1f1e08-6d5a-4d93-9d4c-f34b3be165d0" /><br />
+　　<br /><img width="500％" height="500％" alt="image" src="https://github.com/user-attachments/assets/5f1f1e08-6d5a-4d93-9d4c-f34b3be165d0" /><br />
 * **4-3実施直後の状態**
     <br /><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/b40debc8-24bd-4cc2-9502-6228f45e90ab" /><br />
 
