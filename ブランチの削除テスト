@@ -1,0 +1,8 @@
+０．リポジトリの設定から
+　Setting　ー＞　Pull Requests　ー＞　Automatically delete head branches　にチェックを入れる
+
+１．ブランチを作成（70meth01-del-branch）
+２．Push & Merge
+３．ブランチの自動削除（70meth01-del-branch）
+
+を確認する
